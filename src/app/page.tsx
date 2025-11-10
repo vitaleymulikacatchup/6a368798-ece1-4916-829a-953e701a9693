@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 import HeroBillboardScroll from '@/components/sections/hero/HeroBillboardScroll';
@@ -6,7 +6,7 @@ import TextAbout from '@/components/sections/about/TextAbout';
 import FeatureCardSix from '@/components/sections/feature/FeatureCardSix';
 import ProductCardOne from '@/components/sections/product/ProductCardOne';
 import PricingCardOne from '@/components/sections/pricing/PricingCardOne';
-import MetricCardTwo from '@/components/sections/metric/MetricCardTwo';
+import MetricCardTwo from '@/components/sections/metrics/MetricCardTwo';
 import TestimonialCardTwo from '@/components/sections/testimonial/TestimonialCardTwo';
 import FaqSplitText from '@/components/sections/faq/FaqSplitText';
 import BlogCardOne from '@/components/sections/blog/BlogCardOne';
